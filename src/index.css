@@ -1,0 +1,30 @@
+@import "./assets/fonts/fontiran.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@layer base {
+  html {
+    @apply select-none;
+  }
+}
+
+body {
+  font-family: "Yekan Bakh NoEn", sans-serif;
+}
+
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}

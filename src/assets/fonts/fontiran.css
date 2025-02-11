@@ -1,0 +1,506 @@
+
+
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: 100;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-ThinExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ThinExtraCondensed.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-LightExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-LightExtraCondensed.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: normal;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-RegularExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-RegularExtraCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-SemiBoldExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-SemiBoldExtraCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: bold;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-BoldExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BoldExtraCondensed.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: 800;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-ExtraBoldExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBoldExtraCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-BlackExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BlackExtraCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraCondensed;
+	font-style: normal;
+	font-weight: 950;
+	font-stretch: extra-condensed;
+	src: url('woff/YekanBakhNoEn-ExtraBlackExtraCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBlackExtraCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: 100;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-ThinCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ThinCondensed.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-LightCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-LightCondensed.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-RegularCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-RegularCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-SemiBoldCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-SemiBoldCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: bold;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-BoldCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BoldCondensed.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: 800;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-ExtraBoldCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBoldCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-BlackCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BlackCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Condensed;
+	font-style: normal;
+	font-weight: 950;
+	font-stretch: condensed;
+	src: url('woff/YekanBakhNoEn-ExtraBlackCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBlackCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: 100;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-ThinSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ThinSemiCondensed.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-LightSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-LightSemiCondensed.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: normal;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-RegularSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-RegularSemiCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-SemiBoldSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-SemiBoldSemiCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: bold;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-BoldSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BoldSemiCondensed.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: 800;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-ExtraBoldSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBoldSemiCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-BlackSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BlackSemiCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiCondensed;
+	font-style: normal;
+	font-weight: 950;
+	font-stretch: semi-condensed;
+	src: url('woff/YekanBakhNoEn-ExtraBlackSemiCondensed.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBlackSemiCondensed.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: 100;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-Thin.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-Thin.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-Light.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-Light.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: normal;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-Regular.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-Regular.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-SemiBold.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-SemiBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: bold;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-Bold.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-Bold.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: 800;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-ExtraBold.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBold.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-Black.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-Black.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn;
+	font-style: normal;
+	font-weight: 950;
+	font-stretch: normal;
+	src: url('woff/YekanBakhNoEn-ExtraBlack.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBlack.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: 100;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-ThinSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ThinSemiExpanded.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-LightSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-LightSemiExpanded.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: normal;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-RegularSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-RegularSemiExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-SemiBoldSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-SemiBoldSemiExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: bold;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-BoldSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BoldSemiExpanded.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: 800;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-ExtraBoldSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBoldSemiExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-BlackSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BlackSemiExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn SemiExpanded;
+	font-style: normal;
+	font-weight: 950;
+	font-stretch: semi-expanded;
+	src: url('woff/YekanBakhNoEn-ExtraBlackSemiExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBlackSemiExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: 100;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-ThinExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ThinExpanded.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-LightExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-LightExpanded.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: normal;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-RegularExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-RegularExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-SemiBoldExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-SemiBoldExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: bold;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-BoldExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BoldExpanded.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: 800;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-ExtraBoldExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBoldExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-BlackExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BlackExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn Expanded;
+	font-style: normal;
+	font-weight: 950;
+	font-stretch: expanded;
+	src: url('woff/YekanBakhNoEn-ExtraBlackExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBlackExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: 100;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-ThinExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ThinExtraExpanded.woff2') format('woff2');		
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: 300;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-LightExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-LightExtraExpanded.woff2') format('woff2');	
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: normal;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-RegularExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-RegularExtraExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: 600;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-SemiBoldExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-SemiBoldExtraExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: bold;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-BoldExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BoldExtraExpanded.woff2') format('woff2'); 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: 800;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-ExtraBoldExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBoldExtraExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: 900;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-BlackExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-BlackExtraExpanded.woff2') format('woff2');		 
+}
+
+@font-face {
+	font-family: Yekan Bakh NoEn ExtraExpanded;
+	font-style: normal;
+	font-weight: 950;
+	font-stretch: extra-expanded;
+	src: url('woff/YekanBakhNoEn-ExtraBlackExtraExpanded.woff') format('woff'),   
+	url('woff2/YekanBakhNoEn-ExtraBlackExtraExpanded.woff2') format('woff2');		 
+}
