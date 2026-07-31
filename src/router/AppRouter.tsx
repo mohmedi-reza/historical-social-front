@@ -6,7 +6,7 @@ import Layout from "../layout/Layout";
 
 const AppRouter: React.FC = () => {
   return (
-    <Router>
+    <Router basename="/historical-social-front">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<MainPage />} />
